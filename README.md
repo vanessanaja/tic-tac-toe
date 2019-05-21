@@ -1,3 +1,9 @@
+This is my very first React app that I created without the use of any tutorial.
+
+I also did not use Stack Overflow for this, nor did I look at any other Tic Tac Toe apps.
+
+My mentor assigned this to me and asked me to complete it with minimal Googling.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
